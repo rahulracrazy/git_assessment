@@ -1,3 +1,1 @@
-Initial commit
-Feature in progress
-Bug fic in progress
+Cloned Readmme.md file update and pushed through other repo
